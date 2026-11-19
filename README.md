@@ -2,6 +2,9 @@
 
 Checklist para decidir si un producto vale la pena importar: los 10 criterios, el costo de importación y la ganancia en Mercado Libre (Uruguay y Argentina), en un solo archivo que es tuyo. Gratis y sin internet.
 
+<img width="1246" height="848" alt="Gemini_Generated_Image_kd37trkd37trkd37(1)" src="https://github.com/user-attachments/assets/e3204036-20b3-41bc-8da8-577dfd0c1525" />
+
+
 ## ¿Para qué sirve?
 
 Cuando importás para revender, la pregunta es siempre la misma: **¿este producto vale la pena?** Producto Ganador+ te ayuda a contestarla con orden:
